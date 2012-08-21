@@ -1,0 +1,9 @@
+#######################################
+# Syntax Coloring Map For RingtonePlayer
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+playRingtone	KEYWORD2
